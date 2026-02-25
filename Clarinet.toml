@@ -1,0 +1,13 @@
+[project]
+name = 'stackcred'
+description = ''
+authors = []
+telemetry = true
+cache_dir = '.\.cache'
+requirements = []
+[contracts.stackcred]
+path = 'contracts/stackcred.clar'
+clarity_version = 3
+epoch = 3.1
+[repl.analysis]
+passes = []
